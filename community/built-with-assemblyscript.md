@@ -30,6 +30,7 @@ description: >-
 ## Graphics
 
 * [as2d](https://github.com/as2d/as2d) Bring the power of the CanvasRenderingContext2D prototype to AssemblyScript.
+* [as-smallpt](https://github.com/01alchemist/as-smallpt) Port of C++ smallpt, a path tracing renderer.
 
 ## Libraries
 
